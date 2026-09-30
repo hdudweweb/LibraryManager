@@ -1,0 +1,21 @@
+# Результаты сборки
+bin/
+obj/
+*.user
+*.suo
+
+# Временные файлы IDE
+.vs/
+*.swp
+*~
+
+# Файлы ОС
+Thumbs.db
+Desktop.ini
+
+# NuGet
+packages/
+*.nupkg
+
+# Логи
+*.log
